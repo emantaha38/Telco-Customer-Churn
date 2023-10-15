@@ -1,1 +1,11 @@
-
+pandas
+scikit-learn
+streamlit
+numpy
+xgboost
+category-encoders
+SVC
+OneHotEncoder
+RobustScaler
+OrdinalEncoder
+ColumnTransformer
