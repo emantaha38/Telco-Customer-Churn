@@ -7,3 +7,4 @@ seaborn==0.11.2
 plotly==5.3.1
 category-encoders==2.2.2
 imbalanced-learn==0.8.0
+import pickle
